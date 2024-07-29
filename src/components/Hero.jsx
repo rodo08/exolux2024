@@ -11,7 +11,7 @@ const Hero = () => {
           <h1 className="font-bold text-4xl text-center">
             Servicios integrales.
           </h1>
-          <img className="p-4" src="../src/img/re-logo_v2-01.svg" />
+          <img className="p-4" src="https://imgur.com/eZAPuxL.png" />
           <p className="text-center">
             Innovación eléctrica de principio a fin. Diseño y montaje experto
             para un futuro más eficiente y seguro.

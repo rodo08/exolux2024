@@ -3,7 +3,7 @@ const TopBar = () => {
   return (
     <div className="flex justify-between items-center p-4 py-2">
       <div className="flex items-center">
-        <img className="h-10" src="./public/img/re-logo_v2-01.svg" alt="" />
+        <img className="h-10" src="../src/img/re-logo_v2-01.svg" alt="" />
       </div>
       <div className="flex">
         <div className="hidden md:flex items-center px-6">
